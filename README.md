@@ -1,13 +1,11 @@
 # ml4ai
 
-## Markdown made.
+## Machine Learning For AI course codes.
 
-**nice to meet you guys**
+**In this course I'm expecting to learn more sophisticated methods and principles of machine learning especially for later competitions.**
 
-*italics are made this way*
 
-***so it's the most complex one.***
-
+*Friendships included are as follows:*
 [Seung-uk_jeong](https://github.com/SeungukJeong)
-[josefernan](https://github.com/joseFERNAN)
+[josefernan](https://github.com/joseFERNAN) or meegu
 [HYUN](https://github.com/Higurashi-kagome)
