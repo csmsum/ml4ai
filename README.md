@@ -6,6 +6,9 @@
 
 
 *Friendships included are as follows:*
+
 [Seung-uk_jeong](https://github.com/SeungukJeong)
+
 [josefernan](https://github.com/joseFERNAN) or meegu
+
 [HYUN](https://github.com/Higurashi-kagome)
